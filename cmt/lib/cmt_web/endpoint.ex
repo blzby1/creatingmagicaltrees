@@ -7,7 +7,7 @@ defmodule CmtWeb.Endpoint do
   @session_options [
     store: :cookie,
     key: "_cmt_key",
-    signing_salt: "phWoevYh",
+    signing_salt: "NSumtJAR",
     same_site: "Lax"
   ]
 

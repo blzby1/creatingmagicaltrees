@@ -20,7 +20,7 @@ config :cmt, CmtWeb.Endpoint,
     layout: false
   ],
   pubsub_server: Cmt.PubSub,
-  live_view: [signing_salt: "ZxPq2sV+"]
+  live_view: [signing_salt: "fuyB4Rh9"]
 
 # Configure the mailer
 #

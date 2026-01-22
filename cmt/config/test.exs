@@ -17,7 +17,7 @@ config :cmt, Cmt.Repo,
 # you can enable the server option below.
 config :cmt, CmtWeb.Endpoint,
   http: [ip: {127, 0, 0, 1}, port: 4002],
-  secret_key_base: "XkAkIkh2W2S2xoBy2zaQyqg/C8id7gFlPKbscPGpL+nDP0Ammk4rFbtUc+d0/l1d",
+  secret_key_base: "LXDzOkZcKtyzhECvnHdWiM2nIStuPhfGy71dmSRpH1PyvO7qRjqZuK2hCdXsoG0z",
   server: false
 
 # In test we don't send emails

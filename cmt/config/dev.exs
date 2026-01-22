@@ -24,7 +24,7 @@ config :cmt, CmtWeb.Endpoint,
   check_origin: false,
   code_reloader: true,
   debug_errors: true,
-  secret_key_base: "87RVNeBKNEr1zj8SDOZHbtHRddcQ+Yn/FEQUJYOq+4TXoKVQtVPBzOUZXbajRd1B",
+  secret_key_base: "WKx/jVqgnFyeQHOqbkt6aB/cTuGnOu3Zh0EFGf8oGdXJvmpYMEc6NHwp9PTPHnbx",
   watchers: [
     esbuild: {Esbuild, :install_and_run, [:cmt, ~w(--sourcemap=inline --watch)]},
     tailwind: {Tailwind, :install_and_run, [:cmt, ~w(--watch)]}
